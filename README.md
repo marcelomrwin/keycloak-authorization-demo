@@ -2,7 +2,11 @@
 
 This project demonstrates **Keycloak Authorization Services** using **RBAC (Role-Based Access Control)** and **ABAC (Attribute-Based Access Control)** models.
 
+[Keycloak](https://keycloak.org)
 [Authorization services guide](https://www.keycloak.org/docs/24.0.5/authorization_services)
+
+The examples were implemented using DotNet Core 8 and its integration with JWT.
+[.Net Core](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet)
 
 ## What are RBAC and ABAC?
 
