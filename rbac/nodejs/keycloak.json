@@ -1,0 +1,14 @@
+{
+    "realm": "rbac",
+    "auth-server-url": "http://localhost:8180/",
+    "ssl-required": "external",
+    "resource": "rbac_client",
+    "verify-token-audience": false,
+    "credentials": {
+      "secret": "IN4aGWzHCaJziI3QVAgSzJKTtRDsX875"
+    },
+    "confidential-port": 0,
+    "policy-enforcer": {
+      "credentials": {}
+    }
+  }

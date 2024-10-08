@@ -1,0 +1,14 @@
+{
+    "policies": [
+        {
+            "name": "Operations Peru Authz Policy",
+            "fileName": "operations-peru-policy.js",
+            "description": "Operations Peru Authz Policy"
+        },
+        {
+            "name": "Oil Australia Authz Policy",
+            "fileName": "oil-australia-policy.js",
+            "description": "Oil Australia Authz Policy"
+        }
+    ]
+}
