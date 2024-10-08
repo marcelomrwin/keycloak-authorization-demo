@@ -1,4 +1,4 @@
-# Keycloak Authorization Services Demo
+# Keycloak Authorization Services Demo with Dotnet Core 8
 
 This project demonstrates **Keycloak Authorization Services** using **RBAC (Role-Based Access Control)** and **ABAC (Attribute-Based Access Control)** models.
 
