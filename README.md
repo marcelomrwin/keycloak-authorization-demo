@@ -31,7 +31,7 @@ This project demonstrates **Keycloak Authorization Services** using **RBAC (Role
 2. **Setup**:
    - Clone the repo:
      ```shell
-     git clone https://github.com/yourusername/keycloak-authorization-demo.git
+     git clone https://github.com/marcelomrwin/keycloak-authorization-demo.git
      cd keycloak-authorization-demo
      ```
 
